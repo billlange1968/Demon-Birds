@@ -43,5 +43,5 @@
 
 <h2>References</h2>
 
-<a href="https://archive.org/details/analog-computing-magazine-28/page/n43/mode/1up">Demon Bird Article in Analog Computing magazine</a>
-<a href="https://atariwiki.org/wiki/Wiki.jsp?page=Demon%20Birds">Demon Bird Article on Atariwikik</a>
+<a href="https://archive.org/details/analog-computing-magazine-28/page/n43/mode/1up">Demon Bird Article in Analog Computing magazine</a><br/>
+<a href="https://atariwiki.org/wiki/Wiki.jsp?page=Demon%20Birds">Demon Bird Article on Atariwikik</a></br>
