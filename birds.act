@@ -492,45 +492,45 @@ POSITION(5,10)
 ;CTRL-K L 4SPACES CTRL-I J 4SPACES
 ;CTRL-K L 4SPACES CTRL-I J 2SPACES
 
-pute(6,32+128) ; SPACE INVERSE
+putd(6,32+128) ; SPACE INVERSE
 
-pute(6,9+128) ; CTRL-I J
-pute(6,10+128)
+putd(6,9+128) ; CTRL-I J
+putd(6,10+128)
 
-pute(6,32+128) ; 4SPACES
-pute(6,32+128)
-pute(6,32+128)
-pute(6,32+128)
+putd(6,32+128) ; 4SPACES
+putd(6,32+128)
+putd(6,32+128)
+putd(6,32+128)
 
-pute(6,11+128) ;CTRL-K L
-pute(6,12+128)
+putd(6,11+128) ;CTRL-K L
+putd(6,12+128)
 
-pute(6,32+128) ; 4SPACES
-pute(6,32+128)
-pute(6,32+128)
-pute(6,32+128)
+putd(6,32+128) ; 4SPACES
+putd(6,32+128)
+putd(6,32+128)
+putd(6,32+128)
 
-pute(6,9+128) ; CTRL-I J
-pute(6,10+128)
+putd(6,9+128) ; CTRL-I J
+putd(6,10+128)
 
-pute(6,32+128) ; 4SPACES
-pute(6,32+128)
-pute(6,32+128)
-pute(6,32+128)
+putd(6,32+128) ; 4SPACES
+putd(6,32+128)
+putd(6,32+128)
+putd(6,32+128)
 
-pute(6,11+128) ;CTRL-K L
-pute(6,12+128)
+putd(6,11+128) ;CTRL-K L
+putd(6,12+128)
 
-pute(6,32+128) ; 4SPACES
-pute(6,32+128)
-pute(6,32+128)
-pute(6,32+128)
+putd(6,32+128) ; 4SPACES
+putd(6,32+128)
+putd(6,32+128)
+putd(6,32+128)
 
-pute(6,9+128) ; CTRL-I J
-pute(6,10+128)
+putd(6,9+128) ; CTRL-I J
+putd(6,10+128)
 
-pute(6,32+128)  ; 2SPACES
-pute(6,32+128)
+putd(6,32+128)  ; 2SPACES
+putd(6,32+128)
 
 ;PMG STUFF
 POKE(53277,3)
