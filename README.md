@@ -38,3 +38,9 @@ Demon Birds in Action! for the Atari 8-bit by Dan Bullok from Analog Computing m
 </ol>
 
 <p>That's all there is to it. You're ready to do battle with the <strong>Demon Birds</strong>.</p>
+
+
+<h2>References</h2>
+
+<a href="https://archive.org/details/analog-computing-magazine-28/page/n43/mode/1up">Demo Bird Article in Analog Computing magazine</a>
+
