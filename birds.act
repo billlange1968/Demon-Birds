@@ -493,42 +493,32 @@ POSITION(5,10)
 ;CTRL-K L 4SPACES CTRL-I J 2SPACES
 
 putd(6,32+128) ; SPACE INVERSE
-
 putd(6,9+128) ; CTRL-I J
 putd(6,10+128)
-
 putd(6,32+128) ; 4SPACES
 putd(6,32+128)
 putd(6,32+128)
 putd(6,32+128)
-
 putd(6,11+128) ;CTRL-K L
 putd(6,12+128)
-
 putd(6,32+128) ; 4SPACES
 putd(6,32+128)
 putd(6,32+128)
 putd(6,32+128)
-
 putd(6,9+128) ; CTRL-I J
 putd(6,10+128)
-
 putd(6,32+128) ; 4SPACES
 putd(6,32+128)
 putd(6,32+128)
 putd(6,32+128)
-
 putd(6,11+128) ;CTRL-K L
 putd(6,12+128)
-
 putd(6,32+128) ; 4SPACES
 putd(6,32+128)
 putd(6,32+128)
 putd(6,32+128)
-
 putd(6,9+128) ; CTRL-I J
 putd(6,10+128)
-
 putd(6,32+128)  ; 2SPACES
 putd(6,32+128)
 
@@ -581,14 +571,52 @@ POKE(712,136)
 AC=PEEKC(560)
 POKE(AC+9,7) ;GRAPHICS(2) AT LINE 4
 POSITION(5,4)
-PRINTDE(6,"game over")
+;PRINTDE(6,"game over")
+putd(6,103+128)
+putd(6,97+128)
+putd(6,109+128)
+putd(6,101+128)
+putd(6,32+128)
+putd(6,111+128)
+putd(6,118+128)
+putd(6,101+128)
+putd(6,114+128)
+
 POSITION(4,10)
-PRINTDE(6,"final SCORE:")
+;PRINTDE(6,"final SCORE:")
+putd(6,102)
+putd(6,105)
+putd(6,110)
+putd(6,97)
+putd(6,108)
+putd(6,32)
+putd(6,83+128)
+putd(6,67+128)
+putd(6,79+128)
+putd(6,82+128)
+putd(6,69+128)
+putd(6,58+128)
+
 POSITION(7,12)
 PRINTD(6,"000000")
 CENTER(SCORE,10,12)
 POSITION(4,18)
-PRINTDE(6,"press start")
+;PRINTDE(6,"press start")
+putd(6,32)
+putd(6,32)
+putd(6,32)
+putd(6,112)
+putd(6,114)
+putd(6,101)
+putd(6,115)
+putd(6,115)
+putd(6,32)
+putd(6,115+128)
+putd(6,116+128)
+putd(6,97+128)
+putd(6,114+128)
+putd(6,116+128)
+
 POKE(559,34)
 WHILE CONSOL#6 DO
   WSYNC=0
