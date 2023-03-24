@@ -453,7 +453,7 @@ PRINTD(6,"CDGHCDKLOPST")
 POSITION(5,5)
 PRINTD(6,"PRESENTS")
 POSITION(4,8)
-;PRINTD(6,"12345 6789:")
+;PRINTD(6,"12345 6789:") ; numbers in inverse
 putd(6,49+128)
 putd(6,50+128)
 putd(6,51+128)
@@ -469,7 +469,7 @@ putd(6,57+128)
 POSITION(3,15)
 PRINTD(6,"BY DAN BULLOK")
 POSITION(0,18)
-;PRINTD(6,"   press start")
+;PRINTD(6,"   press start") ; lowser case and 'start' in inverse
 putd(6,32)
 putd(6,32)
 putd(6,32)
@@ -486,11 +486,52 @@ putd(6,114+128)
 putd(6,116+128)
 
 POSITION(5,10)
-PRINTD(6," ??    ??    ??    ??    ")
-PRINTD(6,"??  ")
+;PRINTD(6," ??    ??    ??    ??    ")
+;PRINTD(6,"??  ")
 ;ABOVE=SPACE INVERSE CTRL-I J 4SPACES
 ;CTRL-K L 4SPACES CTRL-I J 4SPACES
 ;CTRL-K L 4SPACES CTRL-I J 2SPACES
+
+pute(6,32+128) ; SPACE INVERSE
+
+pute(6,9+128) ; CTRL-I J
+pute(6,10+128)
+
+pute(6,32+128) ; 4SPACES
+pute(6,32+128)
+pute(6,32+128)
+pute(6,32+128)
+
+pute(6,11+128) ;CTRL-K L
+pute(6,12+128)
+
+pute(6,32+128) ; 4SPACES
+pute(6,32+128)
+pute(6,32+128)
+pute(6,32+128)
+
+pute(6,9+128) ; CTRL-I J
+pute(6,10+128)
+
+pute(6,32+128) ; 4SPACES
+pute(6,32+128)
+pute(6,32+128)
+pute(6,32+128)
+
+pute(6,11+128) ;CTRL-K L
+pute(6,12+128)
+
+pute(6,32+128) ; 4SPACES
+pute(6,32+128)
+pute(6,32+128)
+pute(6,32+128)
+
+pute(6,9+128) ; CTRL-I J
+pute(6,10+128)
+
+pute(6,32+128)  ; 2SPACES
+pute(6,32+128)
+
 ;PMG STUFF
 POKE(53277,3)
 POKE(623,32)
