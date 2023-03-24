@@ -1,10 +1,22 @@
 <h1>Demon Birds</h1>
 <strong>By Dan Bullok</strong><br/>
 <i>From Analog Computing magazine, Issue 28, March 1985.</i><br/>
-<br/>
+
+<p>
+  
+![demon_birds_title](https://user-images.githubusercontent.com/3913623/227612420-7d1ecac5-598d-4fba-9e3b-8854ff4eec2c.png)
+  
+</p>
+
 <p>You are the last Wizard of Akturnis, the strange and mystical world where magic can be worked by anyone with the will to do so. But, in the past few years, people have lost their faith in Wizards and magic. Now the evil <strong>Demon Birds</strong> have begun to plague them, and you are their <i>only</i> hope.</p>
 
 <p>To save the People or Akturnis, you must enter the dreaded Valley of Death and destroy all of the <strong>Demon Birds</strong> found there.</p>
+
+<p>
+  
+![demon_birds_game](https://user-images.githubusercontent.com/3913623/227612766-d3a2a462-cd79-4b50-8116-f170f9213e29.png)
+  
+</p>
 
 <p>Your Wizard starts the game with four lives and fifty units of energy. For every bird you destroy, you will gain two units of energy. However, every time you cast a fireball, you <i>lose</i> one unit of energy.</p>
 
