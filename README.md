@@ -45,4 +45,5 @@
 
 <a href="https://archive.org/details/analog-computing-magazine-28/page/n43/mode/1up">Demon Bird Article in Analog Computing magazine</a><br/>
 <a href="https://atariwiki.org/wiki/Wiki.jsp?page=Demon%20Birds">Demon Bird Article on Atariwiki</a></br>
+<a href="http://www.atarimania.com/game-atari-400-800-xl-xe-demon-birds_1580.html">Demon Bird Article on Atarimania</a></br>
 <a href="https://www.akk.org/~flo/ATASCII.pdf">ATASCII Chart PDF File</a></br>
