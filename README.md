@@ -1,5 +1,5 @@
 <h1>Demon Birds</h1>
-<strong>By Dan Bullok</strong>
+<strong>By Dan Bullok</strong></br>
 Analog Computing magazine, Issue 28, March 1985.</br>
 
 <p>You are the last Wizard of Akturnis, the strange and mystical world where magic can be worked by anyone with the will to do so. But, in the past few years, people have lost their faith in Wizards and magic. Now the evil <strong>Demon Birds</strong> have begun to plague them, and you are their <i>only</i> hope.</p>
