@@ -14,7 +14,7 @@
 
 <p>
   
-![demon_birds_game](https://user-images.githubusercontent.com/3913623/227612766-d3a2a462-cd79-4b50-8116-f170f9213e29.png)
+![demon_birds_game](https://user-images.githubusercontent.com/3913623/227619883-b82f529d-96ee-4559-94fc-e8dfe8796315.png)
   
 </p>
 
