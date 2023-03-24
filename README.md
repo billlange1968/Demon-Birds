@@ -1,7 +1,7 @@
 <h1>Demon Birds</h1>
 <strong>By Dan Bullok</strong></br>
-Analog Computing magazine, Issue 28, March 1985.</br>
-
+<i>From Analog Computing magazine, Issue 28, March 1985.</i></br>
+<br/>
 <p>You are the last Wizard of Akturnis, the strange and mystical world where magic can be worked by anyone with the will to do so. But, in the past few years, people have lost their faith in Wizards and magic. Now the evil <strong>Demon Birds</strong> have begun to plague them, and you are their <i>only</i> hope.</p>
 
 <p>To save the People or Akturnis, you must enter the dreaded Valley of Death and destroy all of the <strong>Demon Birds</strong> found there.</p>
