@@ -5,7 +5,7 @@ Demon Birds in Action! for the Atari 8-bit by Dan Bullok from Analog Computing m
 
 <p>To save the People or Akturnis, you must enter the dreaded Valley of Death and destroy all of the <strong>Demon Birds</strong> found there.</p>
 
-<p>Your Wizard starts the game with four lives and fifty units of energy. For every bird you destroy, you will gain two units of energy. However, every time you cast a fireball, you lose one unit of energy.</p>
+<p>Your Wizard starts the game with four lives and fifty units of energy. For every bird you destroy, you will gain two units of energy. However, every time you cast a fireball, you <i>lose</i> one unit of energy.</p>
 
 <p>You move your Wizard left and right at the bottom of the screen, using the joystick. You may cast a fireball by pressing the red button while moving in the direction in which you wish it to travel.</p>
 
