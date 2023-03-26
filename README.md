@@ -52,6 +52,8 @@
 
 <p>That's all there is to it. You're ready to do battle with the <strong>Demon Birds</strong>.</p>
 
+<h2>Altirra Notes</h2>
+You can copy the source code directly from Github and paste it into the Action Editor in Altirra. Make sure toggle off CAPS LOCK so that the source code is pasted into Altirra with mix upper and lower case characters. If CAPS LOCK is enabled, all lower case characters will be pasted in as upper case. Also, make sure to put Altirra into WARP SPEED mode so that the paste process is quick, then turn off WARP SPEED.
 
 <h2>References</h2>
 
