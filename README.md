@@ -2,11 +2,17 @@
 <strong>By Dan Bullok</strong><br/>
 <i>From Analog Computing magazine, Issue 28, March 1985.</i><br/>
 
+<h2>Altirra Notes</h2>
+You can copy the source code directly from Github and paste it into the Action Editor in Altirra. Make sure toggle off CAPS LOCK so that the source code is pasted into Altirra with mix upper and lower case characters. If CAPS LOCK is enabled, all lower case characters will be pasted in as upper case. Also, make sure to put Altirra into WARP SPEED mode so that the paste process is quick, then turn off WARP SPEED.
+
 <p>
   
 ![demon_birds_title](https://user-images.githubusercontent.com/3913623/227612420-7d1ecac5-598d-4fba-9e3b-8854ff4eec2c.png)
   
 </p>
+
+
+
 
 <p>You are the last Wizard of Akturnis, the strange and mystical world where magic can be worked by anyone with the will to do so. But, in the past few years, people have lost their faith in Wizards and magic. Now the evil <strong>Demon Birds</strong> have begun to plague them, and you are their <i>only</i> hope.</p>
 
@@ -51,9 +57,6 @@
 </ol>
 
 <p>That's all there is to it. You're ready to do battle with the <strong>Demon Birds</strong>.</p>
-
-<h2>Altirra Notes</h2>
-You can copy the source code directly from Github and paste it into the Action Editor in Altirra. Make sure toggle off CAPS LOCK so that the source code is pasted into Altirra with mix upper and lower case characters. If CAPS LOCK is enabled, all lower case characters will be pasted in as upper case. Also, make sure to put Altirra into WARP SPEED mode so that the paste process is quick, then turn off WARP SPEED.
 
 <h2>References</h2>
 
