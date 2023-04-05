@@ -3,7 +3,7 @@
 <i>From Analog Computing magazine, Issue 28, March 1985.</i><br/>
 
 <h2>Altirra Notes</h2>
-The Action source code has been modified to remove unprintable ATASCII characters, control characters, and inverse characters. You can copy the source code directly from Github and paste it into the Action Editor in Altirra. Make sure toggle off CAPS LOCK so that the source code is pasted into Altirra with mix upper and lower case characters. If CAPS LOCK is enabled, all lower case characters will be pasted in as upper case. Also, make sure to put Altirra into WARP SPEED mode so that the paste process is quick, then turn off WARP SPEED.
+The Action source code has been modified to remove unprintable ATASCII characters, control characters, and inverse characters. The have been replaced with printable ATASCII character codes. You can copy the source code directly from Github and paste it into the Action Editor in Altirra. Make sure toggle off CAPS LOCK so that the source code is pasted into Altirra with mix upper and lower case characters. If CAPS LOCK is enabled, all lower case characters will be pasted in as upper case. Also, make sure to put Altirra into WARP SPEED mode so that the paste process is quick, then turn off WARP SPEED.
 
 <p>
   
